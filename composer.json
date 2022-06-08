@@ -1,0 +1,10 @@
+{
+    "name": "js/jewelary",
+    "description": "jewelary e-commerce",
+    "autoload": {
+        "psr-4": {
+            "JS\\Jewelary\\": "db/"
+        }
+    },
+    "require": {}
+}
